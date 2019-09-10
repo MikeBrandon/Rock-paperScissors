@@ -1,2 +1,1 @@
-# Quboid
-My First 3d Game
+# Rock Paper Scissors
